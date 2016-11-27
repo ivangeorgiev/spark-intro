@@ -1,6 +1,6 @@
 # spark-intro
 
-Materials from the Spark Walktrough from 24th of November 2016.
+Materials for the Spark Walktrough from 24th of November 2016.
 
 All data files are also available in the `data/` directory.
 
