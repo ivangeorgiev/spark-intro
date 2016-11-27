@@ -1,0 +1,10 @@
+derby.log
+metastore_db
+spark-warehouse
+.ipy*
+checkpoint
+out
+data/ml-latest/parquet
+data/ml-latest/*.csv
+data/ml-latest-small/parquet
+data/ml*
