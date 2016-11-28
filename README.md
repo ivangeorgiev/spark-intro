@@ -11,6 +11,10 @@ All data files are also available in the `data/` directory.
   - http://nbviewer.jupyter.org/github/ivangeorgiev/spark-intro/blob/master/Transcript.ipynb
   - Transcript contains much more details and examples than what was shown, including some data preparation and exploration activities.
 
+- Demo on using XML with Spark
+  - http://nbviewer.jupyter.org/github/ivangeorgiev/spark-intro/blob/master/Spark-XML.ipynb
+
+  
 - Slides (see the transcript for the text):  
   - https://github.com/ivangeorgiev/spark-intro/blob/master/Spark-Walkthrough1.pdf
 
